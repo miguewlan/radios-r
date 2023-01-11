@@ -192,6 +192,16 @@ function chillHop() {
             audio: "http://s1-webradio.antenne.de/hits-fuer-kids/stream/mp3?aw_0_1st.playerid=tunein.com",
             active: false,
         },
+            {
+            name:"MIX RADIO GARDEN",
+            artist: "Radio Garden",
+            cover: "https://v5.airtableusercontent.com/v1/14/14/1673416800000/lwf7TBSBoUx8IYNPS-ExIw/sE9Cm2wnMoRpjoDyjgSvLNKKM4HSqxKTxnlnSRQWjqWWH4iKbvpFAbW2tOQzxE3D/rXs8QhgmatpODejqggwebVc_ASg8UsPyxPhhOuFkE3U",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "http://174.36.206.197:7062/stream/1/",
+            active: false,
+        },
+         
     ];
 }
 
